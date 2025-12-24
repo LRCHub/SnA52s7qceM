@@ -1,0 +1,43 @@
+# マイケル・ブーブレ – Santa Claus Is Coming to Town
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:18.31] You better watch out
+[00:20.43] You better not cry
+[00:22.31] You better not pout
+[00:24.17] I'm telling you why
+[00:26.89] Santa Claus is coming to town
+[00:41.39] 
+[00:34.19] He's making a list
+[00:36.29] He's checking it twice
+[00:38.22] He's gonna find out who's naughty or nice
+[00:42.53] Santa Claus is coming to town
+[00:57.03] 
+[00:49.88] He sees you when you're sleeping
+[00:54.05] He knows when you're awake
+[00:57.84] He knows when you've been bad or good
+[01:01.10] So be good for goodness' sake
+[01:15.60] 
+[01:05.90] You better watch out
+[01:07.52] You better not cry
+[01:09.89] You better not pout
+[01:11.26] I'm telling you why
+[01:14.13] Santa Claus is coming to town
+[01:28.63] 
+[01:37.01] He sees you when you're sleeping
+[01:41.22] He knows when you're awake
+[01:45.09] He knows when you've been bad or good
+[01:48.47] So be good for goodness' sake
+[02:02.97] 
+[01:56.75] You better watch out
+[01:58.74] You better not cry
+[02:00.91] You better not pout
+[02:02.55] I'm telling you why
+[02:05.10] Santa Claus is coming to town
+[02:19.60] 
+[02:12.38] He's making a list
+[02:14.56] He's checking it twice
+[02:16.58] He's gonna find out who's naughty or nice
+[02:20.94] Santa Claus is coming to town
+```
