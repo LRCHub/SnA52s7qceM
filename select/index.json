@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Santa Claus Is Coming to Town",
+  "base_artist": "マイケル・ブーブレ",
+  "createdAt": "2025-12-24T17:27:09.609034Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Santa Claus Is Coming to Town",
+      "artist": "FourPlay",
+      "has_synced": false,
+      "path": "select/01_Santa_Claus_Is_Coming_to_Town_FourPlay.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Santa Claus Is Coming to Town",
+      "artist": "Slade",
+      "has_synced": true,
+      "path": "select/02_Santa_Claus_Is_Coming_to_Town_Slade.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Santa Claus Is Coming to Town",
+      "artist": "Louane",
+      "has_synced": true,
+      "path": "select/03_Santa_Claus_Is_Coming_to_Town_Louane.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Santa Claus Is Coming To Town",
+      "artist": "B2k",
+      "has_synced": true,
+      "path": "select/04_Santa_Claus_Is_Coming_To_Town_B2k.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Santa Claus Is Coming To Town",
+      "artist": "Cartoons",
+      "has_synced": false,
+      "path": "select/05_Santa_Claus_Is_Coming_To_Town_Cartoons.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Santa Claus Is Coming To Town",
+      "artist": "Chicago",
+      "has_synced": true,
+      "path": "select/06_Santa_Claus_Is_Coming_To_Town_Chicago.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Santa Claus Is Coming To Town",
+      "artist": "Basix",
+      "has_synced": false,
+      "path": "select/07_Santa_Claus_Is_Coming_To_Town_Basix.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Santa Claus Is Coming To Town",
+      "artist": "Various",
+      "has_synced": false,
+      "path": "select/08_Santa_Claus_Is_Coming_To_Town_Various.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Santa Claus Is Coming to Town",
+      "artist": "Ima",
+      "has_synced": true,
+      "path": "select/09_Santa_Claus_Is_Coming_to_Town_Ima.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Santa Claus is Coming to Town",
+      "artist": "Pentatonix",
+      "has_synced": true,
+      "path": "select/10_Santa_Claus_is_Coming_to_Town_Pentatonix.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Santa Claus Is Coming to Town",
+      "artist": "Ivy Levan",
+      "has_synced": true,
+      "path": "select/11_Santa_Claus_Is_Coming_to_Town_Ivy_Levan.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Santa Claus Is Coming To Town",
+      "artist": "Carpenters",
+      "has_synced": true,
+      "path": "select/12_Santa_Claus_Is_Coming_To_Town_Carpenters.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Santa Claus Is Coming to Town",
+      "artist": "Chris Botti",
+      "has_synced": false,
+      "path": "select/13_Santa_Claus_Is_Coming_to_Town_Chris_Botti.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Santa Claus Is Coming to Town",
+      "artist": "Chris Isaak",
+      "has_synced": true,
+      "path": "select/14_Santa_Claus_Is_Coming_to_Town_Chris_Isaak.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Santa Claus Is Coming to Town",
+      "artist": "Michael Bublé",
+      "has_synced": true,
+      "path": "select/15_Santa_Claus_Is_Coming_to_Town_Michael_Bublé.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Santa Claus Is Coming To Town",
+      "artist": "マイケル・ブーブレ",
+      "has_synced": false,
+      "path": "select/pl_01_Santa_Claus_Is_Coming_To_Town_マイケル・ブーブレ.txt"
+    }
+  ]
+}
